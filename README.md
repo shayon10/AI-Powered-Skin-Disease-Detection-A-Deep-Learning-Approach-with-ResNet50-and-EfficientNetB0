@@ -28,10 +28,11 @@ The proposed system integrates:
 The ResNet50 model achieved an accuracy of **83.61%**, demonstrating strong generalization capability. The system is designed to be **accessible, reliable, and efficient**, supporting early dermatological diagnosis and improved healthcare outcomes.
 
 ---
-
----<img width="1917" height="942" alt="Screenshot 2024-10-31 000807" src="https://github.com/user-attachments/assets/ff4fd5c0-0edd-48cf-a2d8-a69f8749b6b7" />
-<img width="1917" height="945" alt="Screenshot 2024-10-31 000757" src="https://github.com/user-attachments/assets/68512b76-adb0-4e72-b8df-63238463edd0" />
 <img width="1916" height="941" alt="Screenshot 2024-10-31 000730" src="https://github.com/user-attachments/assets/2423916c-9445-4153-8615-dd991227c43e" />
+<img width="1917" height="945" alt="Screenshot 2024-10-31 000757" src="https://github.com/user-attachments/assets/68512b76-adb0-4e72-b8df-63238463edd0" />
+<img width="1917" height="942" alt="Screenshot 2024-10-31 000807" src="https://github.com/user-attachments/assets/ff4fd5c0-0edd-48cf-a2d8-a69f8749b6b7" />
+
+
 
 ## 🚀 Key Features
 
